@@ -1,0 +1,293 @@
+/* === TELAS MUITO PEQUENAS: ATÉ 480PX (CELULARES EM MODO RETRATO) === */
+@media only screen and (max-width: 480px) {
+  .header {
+    padding: 10px;
+  }
+
+  .titulo-principal {
+    font-size: 20px;
+  }
+
+  .menu-navegacao ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+  .menu-navegacao li {
+    margin: 5px 0;
+    width: 50%;
+    text-align: center;
+  }
+  .conteudo-principal {
+    padding: 10px;
+  }
+
+  .destaque h2 {
+    font-size: 18px;
+  }
+
+  .lista-servicos li {
+    font-size: 14px;
+  }
+
+  .item-lista {
+    font-size: 0.95rem;
+    width: 100%;
+  }
+
+  .foto-perfil {
+    width: 120px;
+  }
+
+  .imagens img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .whatsapp-fixo {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    max-width: 300px;
+    height: auto;
+    padding: 10px;
+    background-color: #25d366;
+    border: none;
+    text-align: center;
+    z-index: 1000;
+  }
+
+  .whatsapp-fixo .icone-whatsapp {
+    font-size: 32px;
+    height: 30px;
+    color: #25d366;
+
+  }
+
+  section {
+    margin-bottom: 30px;
+  }
+}
+.lista-rodape{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.lista-rodape li{
+  display: block;
+  margin: 5px 0;
+}
+
+/* === TELAS PEQUENAS: 481PX A 768PX (TABLETS EM MODO RETRATO E CELULARES EM MODO PAISAGEM) === */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .header {
+    padding: 20px;
+  }
+
+  .titulo-principal {
+    font-size: 24px;
+  }
+
+  .menu-navegacao ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+  .menu-navegacao li {
+    margin: 5px 0;
+    width: 50%;
+    text-align: center;
+  }
+
+  .botao-link{
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 14px;
+    width: 90%;
+    max-width: 300px;
+    margin: 5px auto;
+    border-radius: 8px;
+  }
+
+  .conteudo-principal {
+    padding: 15px;
+  }
+
+  .destaque h2 {
+    font-size: 20px;
+  }
+
+  .lista-servicos li {
+    font-size: 16px;
+  }
+
+  .item-lista {
+    width: 100%;
+  }
+
+  .foto-perfil {
+    width: 150px;
+  }
+
+  .imagens img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .whatsapp-fixo {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+.lista-rodape{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.lista-rodape li{
+  display: block;
+  margin: 5px 0;
+}
+
+/* === TELAS MÉDIAS: 769PX A 1024PX (TABLETS EM MODO PAISAGEM E NOTEBOOKS PEQUENOS) === */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .header {
+    padding: 30px;
+  }
+
+  .titulo-principal {
+    font-size: 28px;
+  }
+
+  .menu-navegacao ul {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .menu-navegacao li {
+    margin: 0 15px;
+  }
+
+  .conteudo-principal {
+    padding: 20px;
+  }
+
+  .destaque h2 {
+    font-size: 22px;
+  }
+
+  .lista-servicos li {
+    font-size: 18px;
+  }
+
+  .item-lista {
+    max-width: 90%;
+  }
+
+  .imagens {
+    max-width: 90%;
+  }
+
+  .imagens img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* === TELAS GRANDES: 1025PX EM DIANTE (NOTEBOOKS GRANDES E DESKTOPS) === */
+@media only screen and (min-width: 1025px) {
+  .header {
+    padding: 40px;
+  }
+
+  .titulo-principal {
+    font-size: 32px;
+  }
+
+  .menu-navegacao ul {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .menu-navegacao li {
+    margin: 0 15px;
+  }
+
+  .conteudo-principal {
+    padding: 20px;
+  }
+
+  .destaque h2 {
+    font-size: 24px;
+  }
+
+  .lista-servicos li {
+    font-size: 20px;
+  }
+
+  .item-lista {
+    max-width: 600px;
+  }
+
+  .imagens {
+    max-width: 1000px;
+  }
+
+  .imagens img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.lista-rodape{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.lista-rodape li{
+  display: block;
+  margin: 5px 0;
+}
+/* === PADRÃO PARA CONTEÚDO PRINCIPAL === */
+.conteudo-principal {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+/* === SEÇÕES === */
+section {
+  margin-bottom: 40px;
+}
+
+/* === WHATSAPP FIXO === */
+.whatsapp-fixo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+/* === FORMULÁRIO === */
+.botao-enviar {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+}

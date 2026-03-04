@@ -1,0 +1,414 @@
+/* CONFIG TIPOGRIA E CORES BASE */
+body{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+/* CONFIG CABEÇALHO */
+.header{
+    background: gray;
+    text-align: center;
+    padding: 40px 20px;
+    color: black;
+}
+
+/* CONFIG TITULO PRINCIPAL */
+.titulo-principal{
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* CONFIG BARRA DE PESQUISA */
+.barra-pesquisa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    margin: 15px auto;
+    position: relative;
+}
+
+/* CONFIG CAMPO DE PESQUISA */
+.campo-pesquisa{
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+}
+.barra-pesquisa button{
+    padding: 10px 15px;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-size: 12px;
+}
+.barra-pesquisa button:hover{
+    background-color: #555;
+}
+
+/* CONFIG PARAGRÁFO */
+.paragrafo{
+    font-size: 1.1rem;
+    margin: 20px;
+}
+
+/* CONFIG MENU NAVEGAÇÃO */
+.menu-navegacao{
+    margin-bottom: 30px;
+}
+
+/* CONFIG LISTA MENU NAVEGAÇÃO */
+.lista-navegacao{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+/* CONFIG BOTÃO LINK */
+.botao-link{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+/* CONFIG BOTÃO LINK HOVER */
+.botao-link:hover{
+    background-color: yellow;
+    color: black;
+}
+
+/* CONFIG BOTÃO LINK RODAPE */
+.botao-link-rodape{
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+/* CONFIG BOTÃO LINK RODAPE HOVER */
+.botao-link-rodape:hover{
+    background-color: yellow;
+    color: black;
+}
+/* CONFIG ICONES TIKTOK/KWAI */
+.icone-tiktok,
+.icone-kwai {
+  filter: brightness(0) invert(1);
+  transition: filter 0.3s ease;
+}
+
+/* CONFIG ICONES TIKTOK/KWAI HOVER */
+.botao-link-rodape:hover .icone-tiktok,
+.botao-link-rodape:hover .icone-kwai {
+  filter: none;
+}
+/* CONFIG FOOTER */
+/* CONFIG CONTEUDO PRINCIPAL */
+.conteudo-principal{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* CONFIG SECOES DE PROJETOS, SERVIÇOS E CONTATO */
+.projeto, .servico, .contato{
+    margin-bottom: 40px;
+}
+
+.projetos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* CONFIG CARTÃO DE PROJETO */
+.cartao{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    cursor: pointer;
+    flex: 1 1 280px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.cartao:hover{
+    transform: translateY(-5px);
+}
+
+.cartao a{
+    margin-top: auto;
+}
+
+/* CONFIG IMAGENS */
+.imagens{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px auto;
+    max-width: 1000px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.imagens img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block;
+}
+
+/* CONFIG IMAGENS LEGENDA */
+.imagens figcaption{
+    font-size: 0.9rem;
+    color: #666;
+    text-align: center;
+}
+
+.imagens img:hover{
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+}
+
+/* CONFIG MINHA FOTO */
+.foto-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    max-width: 600px;
+}
+
+.foto-perfil{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: block;
+}
+
+.foto-container figcaption{
+    margin-top: 15px;
+    font-size: 1rem;
+    color: #666;
+    text-align: center;
+}
+
+/* CONFIG SUBTITULOS */
+.subtitulo{
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: black;
+    text-align: center;
+}
+
+/* CONFIG LISTA SERVIÇOS */
+.lista-servicos{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+/* CONFIG LISTA SERVIÇOS LI */
+.lista-servicos li{
+    margin-bottom: 8px;
+    font-size: 1rem;
+    color: black;
+}
+
+/* CONFIG FORMULARIO DE CONTANTO */
+.form-contato{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* CONFIG INPUT FORMULARIO CONTATO INPUT, FORM CONTATO, TEXTAREA */
+.form-contato input, .form-contato textarea{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    width: 100%;
+}
+
+/* CONFIG BOTAO FORMULARIO CONTATO */
+.botao-enviar{
+    background-color: black;
+    color: white;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1rem;
+}
+
+/* BOTAO ENVIAR HOVER */
+.botao-enviar:hover{
+    background-color: yellow;
+    color: black;
+}
+
+/* CONFIG RODAPE */
+.rodape{
+    padding: 0% 20px;
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    margin-top: 40px;
+    font-size: 1rem;
+}
+
+/* CONFIG LISTA RODAPE */
+.lista-rodape{
+    background: gray;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+/* CONFIG LISTA RODAPE LI */
+.lista-rodape li{
+    display: inline;
+    margin: 5px 0;
+}
+
+/* CONFIG WHATSAPP FIXO */
+.whatsapp-fixo{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: white;
+    border-radius: 30px;
+    height: 60px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.whatsapp-fixo:hover{
+    background-color: green;
+    text-decoration: none;
+    color: white;
+}
+
+.icone-whatsapp{
+    width: 36px;
+    height: 36px;
+}
+
+/* CONFIG LISTA DE HABILIDADES */
+.minhas-habilidades{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.minhas-habilidades .subtitulo{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.lista-habilidades{
+    list-style: none;
+    padding-left: 0;
+    margin: 0 auto;
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-lista{
+    background-color: #f0f0f0;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 1rem;
+    width: 100%;
+    max-width: 600px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
+/* ANIMAÇÃO AO ROLAR */
+.js-ativado .subtitulo,
+.js-ativado .paragrafo,
+.js-ativado .projeto,
+.js-ativado .servico,
+.js-ativado .contato,
+.js-ativado .foto-container,
+.js-ativado .item-lista,
+.js-ativado .formulario-contato,
+.js-ativado .novos-projetos {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.js-ativado .ativo {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.6s ease;
+}
