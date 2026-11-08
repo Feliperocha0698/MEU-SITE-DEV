@@ -1,0 +1,262 @@
+{
+  "lang": "en",
+  "locale": "en_US",
+  "titleRole": "Systems Analyst and Developer",
+  "digital": "Digital solutions",
+  "nav": [
+    "Home",
+    "About me",
+    "Portfolio",
+    "Services",
+    "Contact"
+  ],
+  "meta": [
+    "Custom websites, systems and applications with Felipe Rocha Maia. Remote services in Brazil and internationally. Explore the projects and request a quote.",
+    "Meet Felipe Rocha Maia: his story, degree in Systems Analysis and Development, and postgraduate qualification in Information Security.",
+    "Explore Felipe Rocha Maia's portfolio: a registration form, a task list and a digital clock, with links to their source code on GitHub.",
+    "Websites, custom systems, applications, website maintenance and Google Ads management. Project-based quotes with Felipe Rocha Maia.",
+    "Talk to Felipe Rocha Maia about your project. Remote services, WhatsApp and email contact, and a quote request form awaiting configuration."
+  ],
+  "ui": {
+    "skip": "Skip to content",
+    "mainNav": "Main navigation",
+    "footerNav": "Footer navigation",
+    "language": "Choose language",
+    "quote": "Request a quote",
+    "portfolio": "Explore my portfolio",
+    "whatsapp": "Chat on WhatsApp",
+    "remote": "Remote services · Brazil and worldwide",
+    "newTab": " (opens in a new tab)",
+    "explore": "Explore",
+    "connect": "Connect",
+    "rights": "All rights reserved.",
+    "footerText": "Digital solutions, connections without borders.",
+    "floating": "Let's talk?",
+    "searchHeading": "Find what you need",
+    "searchLabel": "Search this site",
+    "searchPlaceholder": "Services, projects, qualifications…",
+    "searchButton": "Search",
+    "searchEmpty": "Enter a search term.",
+    "searchNone": "No results. Try services, projects, qualifications or contact.",
+    "searchFound": "Pages found:",
+    "all": "All",
+    "code": "View project on GitHub",
+    "projectType": "Portfolio project",
+    "technologies": "Technologies",
+    "noProjects": "No projects have been published in this category yet.",
+    "filters": "Filter projects by category",
+    "filterCount": "Projects shown:",
+    "moreAbout": "Discover my story",
+    "allServices": "Explore all services",
+    "allProjects": "Explore portfolio",
+    "learnAbout": "More about me",
+    "next": "The next step",
+    "ctaTitle": "Your business's next step can start here.",
+    "ctaText": "Tell me what you need. Let's find the right solution together.",
+    "ctaEyebrow": "Shall we talk about your project?"
+  },
+  "home": {
+    "eyebrow": "Technology working for your business",
+    "headingBefore": "I turn ideas into",
+    "headingAccent": "digital solutions",
+    "headingAfter": "for your business.",
+    "intro": "Custom website, system and application development for businesses and professionals in Brazil and around the world.",
+    "portraitLabel": "PEOPLE. IDEAS. TECHNOLOGY.",
+    "portraitCaption": "Your next project starts with a good conversation.",
+    "signature": "FelipeCode / Digital development",
+    "servicesEyebrow": "What I can build for you",
+    "servicesTitle": "Technology with purpose. Solutions for your growth.",
+    "servicesIntro": "From your first website to a custom solution, it all starts with understanding what your business needs.",
+    "benefitsEyebrow": "A direct partnership",
+    "benefitsTitle": "Your business at the heart of every decision.",
+    "benefitsIntro": "I am an independent developer. You work directly with me to set priorities, align expectations and build a solution that makes sense.",
+    "benefits": [
+      [
+        "Clarity from the start",
+        "Scope and requirements agreed before development begins."
+      ],
+      [
+        "An experience for your audience",
+        "Careful attention to navigation, accessibility and different screen sizes."
+      ],
+      [
+        "A foundation for growth",
+        "Organization, performance and attention to security guide the project."
+      ]
+    ],
+    "projectsEyebrow": "From idea to practice",
+    "projectsTitle": "Featured projects.",
+    "projectsIntro": "A selection of projects already included in my portfolio. Links lead to the code on GitHub; these are not presented as commissioned client work.",
+    "aboutEyebrow": "Knowledge turned into solutions",
+    "aboutTitle": "Technology that opens up possibilities.",
+    "aboutText": "Technology changed my life, bringing me a profession and new opportunities. Today, I use my knowledge to help businesses and professionals build their digital presence."
+  },
+  "education": {
+    "degree": "Systems Analysis and Development",
+    "degreeLabel": "Undergraduate degree",
+    "post": "Information Security",
+    "postLabel": "Postgraduate qualification",
+    "sentence": "I hold an undergraduate degree in Systems Analysis and Development and a postgraduate qualification in Information Security."
+  },
+  "about": {
+    "eyebrow": "Behind the code",
+    "title": "Technology changes lives. Mine is one of them.",
+    "intro": "I am Felipe Rocha Maia, a Systems Analyst and Developer. I believe technology can break down barriers, expand opportunities and bring good ideas to life.",
+    "storyTitle": "A perspective that guides my work",
+    "story": [
+      "From humanity's earliest tools to computers and artificial intelligence, technology helps us overcome limitations and create new possibilities. To me, that potential has personal meaning.",
+      "Technology also changed my life: it brought me a profession and opportunities for personal and professional development. My degree in Systems Analysis and Development and postgraduate qualification in Information Security are part of that journey.",
+      "Today, I use my knowledge to develop digital solutions that help businesses and professionals grow. I want to bring technology closer to those who need it, with clear communication and attention to each project's context."
+    ],
+    "educationTitle": "Education that informs my decisions",
+    "commitTitle": "My commitment to your project",
+    "commitments": [
+      [
+        "Listen before building",
+        "Understand your business, audience and priorities to define a practical path forward."
+      ],
+      [
+        "Care about the details",
+        "Consider usability, accessibility, code organization and security throughout development."
+      ],
+      [
+        "Keep things transparent",
+        "Discuss scope, requirements and next steps directly, without promising guaranteed results."
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "Solutions for your business",
+    "title": "The right technology starts with understanding your needs.",
+    "intro": "I work with businesses and professionals across different sectors, from local shops to businesses serving customers remotely. Each proposal reflects the project's objectives and scope.",
+    "items": [
+      [
+        "Professional websites",
+        "Institutional websites, landing pages and custom web solutions to present your business and make it easier to get in touch.",
+        "A clear, responsive digital presence aligned with your identity.",
+        "Business websites and landing pages."
+      ],
+      [
+        "Custom systems",
+        "Web systems for specific needs, with features defined around your company's processes.",
+        "Organized information and support for your business's day-to-day tasks.",
+        "Features defined for each project."
+      ],
+      [
+        "Applications",
+        "Applications and digital solutions tailored to each project, considering the audience, features and context of use.",
+        "An experience planned around the problem you want to solve.",
+        "Development tailored to the project."
+      ],
+      [
+        "Website maintenance",
+        "Content updates, fixes, navigation improvements and optimization to keep your website useful and up to date.",
+        "Ongoing care for your digital presence.",
+        "Improvements and updates as needed."
+      ],
+      [
+        "Google Ads management",
+        "Campaign planning, setup, monitoring and optimization based on your business's agreed objectives.",
+        "Campaigns aligned with your services and the audience you want to reach.",
+        "Advertising spend is separate from the management fee."
+      ]
+    ],
+    "processTitle": "How we get started",
+    "process": [
+      [
+        "Initial conversation",
+        "You share your idea, audience and business needs."
+      ],
+      [
+        "Scope and proposal",
+        "We define deliverables, priorities and a suitable project quote."
+      ],
+      [
+        "Development and review",
+        "We organize the stages and reviews agreed in the proposal."
+      ]
+    ],
+    "pricing": "There are no fixed prices: fees depend on each client's needs. Campaign results are not guaranteed."
+  },
+  "portfolio": {
+    "eyebrow": "Ideas put into practice",
+    "title": "Projects that introduce my work.",
+    "intro": "These are the projects already included in my portfolio, with images and source code access. They are not presented as commissioned client work. Categories without projects are reserved for future additions.",
+    "categories": [
+      "Business websites",
+      "Restaurants",
+      "Burger restaurants",
+      "Gyms",
+      "Web systems",
+      "Applications",
+      "Other projects"
+    ],
+    "projects": [
+      [
+        "Registration form",
+        "A developer registration interface with fields for personal information and technical skills.",
+        "Screenshot of the developer registration form"
+      ],
+      [
+        "Task list",
+        "A project for organizing activities, presented with its interface and code on GitHub.",
+        "Screenshot of the task list project"
+      ],
+      [
+        "Digital clock",
+        "An interface for displaying the time in a digital format.",
+        "Screenshot of the digital clock project"
+      ]
+    ],
+    "futureTitle": "Room for new ideas",
+    "futureText": "Future demonstration websites for restaurants, burger restaurants, gyms and other sectors will be clearly labeled as demos when available. No demos have been published here yet.",
+    "clientsTitle": "Client work",
+    "clientsText": "This space is ready for future professional work. Client names, images and information will only be included with permission.",
+    "techNote": "The technologies listed are those described in the original portfolio. Links lead to repositories, with no invented demos."
+  },
+  "contact": {
+    "eyebrow": "A good conversation is the first step",
+    "title": "Let's talk about your project.",
+    "intro": "Tell me about your idea, your business challenge and what you would like to build. Services can be delivered remotely, in Brazil and internationally.",
+    "directTitle": "Talk directly with me",
+    "directText": "While the form awaits configuration, please use WhatsApp or email to request a quote.",
+    "formTitle": "Describe what you need",
+    "inactive": "Sending is not available yet. The form is awaiting Web3Forms configuration and testing. No data will be sent through it in this version.",
+    "required": "All fields are required.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "WhatsApp with country code",
+    "phoneHelp": "Include + and the country code. International numbers are accepted.",
+    "service": "Service required",
+    "choose": "Select a service",
+    "options": [
+      "Website development",
+      "System development",
+      "Application development",
+      "Website maintenance",
+      "Google Ads management",
+      "Other service"
+    ],
+    "description": "Project description",
+    "descriptionHelp": "Describe your goals and required features (at least 20 characters). Do not include passwords or confidential information.",
+    "privacy": "Once sending is activated, the information you provide will be forwarded through Web3Forms to respond to your request. In this version, it is neither sent nor stored by the website.",
+    "submit": "Validate request (sending unavailable)",
+    "send": "Send request",
+    "sending": "Sending…",
+    "validInactive": "The fields have been validated. No data was sent: Web3Forms is not configured yet. Please contact me through WhatsApp or email.",
+    "invalid": "Review the indicated fields before continuing.",
+    "nameError": "Enter your full name.",
+    "emailError": "Enter a valid email address.",
+    "phoneError": "Enter an international number with + and 7 to 15 digits.",
+    "serviceError": "Select the service you need.",
+    "descriptionError": "Describe your project using at least 20 characters.",
+    "success": "Web3Forms accepted your request. Thank you for getting in touch.",
+    "failure": "Sending could not be confirmed. Try again later or use WhatsApp or email.",
+    "spam": "This request could not be sent. Please use one of the contact channels.",
+    "nojs": "Enable JavaScript to validate the form. You can also get in touch through WhatsApp or email.",
+    "ready": "Submissions use Web3Forms. You can also contact me directly through WhatsApp or email.",
+    "privacyActive": "The information in this form will be forwarded through Web3Forms to respond to your request. Do not include sensitive data.",
+    "directActive": "Use the form, WhatsApp or email to discuss your project.",
+    "honeypot": "Leave this field empty"
+  }
+}

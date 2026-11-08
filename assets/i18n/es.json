@@ -1,0 +1,262 @@
+{
+  "lang": "es",
+  "locale": "es_ES",
+  "titleRole": "Analista y Desarrollador de Sistemas",
+  "digital": "Soluciones digitales",
+  "nav": [
+    "Inicio",
+    "Sobre mí",
+    "Portafolio",
+    "Servicios",
+    "Contacto"
+  ],
+  "meta": [
+    "Sitios web, sistemas y aplicaciones a medida con Felipe Rocha Maia. Atención remota en Brasil y el extranjero. Conoce los proyectos y solicita un presupuesto.",
+    "Conoce a Felipe Rocha Maia: su trayectoria, formación en Análisis y Desarrollo de Sistemas y posgrado en Seguridad de la Información.",
+    "Explora los proyectos de Felipe Rocha Maia: formulario de registro, lista de tareas y reloj digital, con enlaces al código en GitHub.",
+    "Sitios web, sistemas, aplicaciones, mantenimiento de sitios y gestión de Google Ads. Presupuestos según el proyecto con Felipe Rocha Maia.",
+    "Habla con Felipe Rocha Maia sobre tu proyecto. Atención remota, contacto por WhatsApp y correo y formulario de presupuesto pendiente de configuración."
+  ],
+  "ui": {
+    "skip": "Ir al contenido",
+    "mainNav": "Navegación principal",
+    "footerNav": "Navegación del pie de página",
+    "language": "Elegir idioma",
+    "quote": "Solicitar presupuesto",
+    "portfolio": "Conoce mi portafolio",
+    "whatsapp": "Hablar por WhatsApp",
+    "remote": "Atención remota · Brasil y el extranjero",
+    "newTab": " (se abre en una nueva pestaña)",
+    "explore": "Explora",
+    "connect": "Conecta",
+    "rights": "Todos los derechos reservados.",
+    "footerText": "Soluciones digitales, conexiones sin fronteras.",
+    "floating": "¿Hablamos?",
+    "searchHeading": "Encuentra lo que buscas",
+    "searchLabel": "Buscar en el sitio",
+    "searchPlaceholder": "Servicios, proyectos, formación…",
+    "searchButton": "Buscar",
+    "searchEmpty": "Introduce un término de búsqueda.",
+    "searchNone": "No hay resultados. Prueba con servicios, proyectos, formación o contacto.",
+    "searchFound": "Páginas encontradas:",
+    "all": "Todos",
+    "code": "Ver proyecto en GitHub",
+    "projectType": "Proyecto de portafolio",
+    "technologies": "Tecnologías",
+    "noProjects": "Todavía no hay proyectos publicados en esta categoría.",
+    "filters": "Filtrar proyectos por categoría",
+    "filterCount": "Proyectos mostrados:",
+    "moreAbout": "Conoce mi trayectoria",
+    "allServices": "Conoce todos los servicios",
+    "allProjects": "Explorar portafolio",
+    "learnAbout": "Más sobre mí",
+    "next": "El siguiente paso",
+    "ctaTitle": "El siguiente paso de tu negocio puede empezar aquí.",
+    "ctaText": "Cuéntame lo que necesitas. Busquemos juntos la solución adecuada.",
+    "ctaEyebrow": "¿Hablamos de tu proyecto?"
+  },
+  "home": {
+    "eyebrow": "Tecnología al servicio de tu negocio",
+    "headingBefore": "Transformo ideas en",
+    "headingAccent": "soluciones digitales",
+    "headingAfter": "para tu negocio.",
+    "intro": "Desarrollo de sitios web, sistemas y aplicaciones a medida para empresas y profesionales en Brasil y el extranjero.",
+    "portraitLabel": "PERSONAS. IDEAS. TECNOLOGÍA.",
+    "portraitCaption": "Tu próximo proyecto empieza con una buena conversación.",
+    "signature": "FelipeCode / Desarrollo digital",
+    "servicesEyebrow": "Lo que puedo desarrollar para ti",
+    "servicesTitle": "Tecnología con propósito. Soluciones para tu crecimiento.",
+    "servicesIntro": "Desde tu primer sitio web hasta una solución a medida, el punto de partida es entender lo que necesita tu negocio.",
+    "benefitsEyebrow": "Una colaboración directa",
+    "benefitsTitle": "Tu negocio en el centro de cada decisión.",
+    "benefitsIntro": "Soy desarrollador independiente. Hablas directamente conmigo para definir prioridades, alinear expectativas y construir una solución que tenga sentido.",
+    "benefits": [
+      [
+        "Claridad desde el principio",
+        "Alcance y necesidades acordados antes del desarrollo."
+      ],
+      [
+        "Una experiencia para tu público",
+        "Atención a la navegación, la accesibilidad y el uso en diferentes pantallas."
+      ],
+      [
+        "Una base para evolucionar",
+        "La organización, el rendimiento y el cuidado de la seguridad orientan el proyecto."
+      ]
+    ],
+    "projectsEyebrow": "De la idea a la práctica",
+    "projectsTitle": "Proyectos destacados.",
+    "projectsIntro": "Una selección de los proyectos ya presentados en mi portafolio. Los enlaces llevan al código en GitHub; no se presentan como trabajos contratados por clientes.",
+    "aboutEyebrow": "Conocimiento que se convierte en soluciones",
+    "aboutTitle": "Tecnología que amplía posibilidades.",
+    "aboutText": "La tecnología transformó mi vida, brindándome una profesión y nuevas oportunidades. Hoy utilizo mis conocimientos para ayudar a empresas y profesionales a construir su presencia digital."
+  },
+  "education": {
+    "degree": "Análisis y Desarrollo de Sistemas",
+    "degreeLabel": "Formación de grado",
+    "post": "Seguridad de la Información",
+    "postLabel": "Posgrado",
+    "sentence": "Soy graduado en Análisis y Desarrollo de Sistemas y tengo un posgrado en Seguridad de la Información."
+  },
+  "about": {
+    "eyebrow": "Detrás del código",
+    "title": "La tecnología transforma vidas. La mía es una de ellas.",
+    "intro": "Soy Felipe Rocha Maia, Analista y Desarrollador de Sistemas. Creo en la tecnología como una forma de derribar barreras, ampliar oportunidades y hacer posibles las buenas ideas.",
+    "storyTitle": "Una visión que orienta mi trabajo",
+    "story": [
+      "Desde las primeras herramientas creadas por la humanidad hasta los ordenadores y la inteligencia artificial, la tecnología nos ayuda a superar limitaciones y crear nuevas posibilidades. Para mí, ese potencial tiene un significado personal.",
+      "La tecnología también transformó mi vida: me brindó una profesión y oportunidades de desarrollo personal y profesional. Mi formación en Análisis y Desarrollo de Sistemas y mi posgrado en Seguridad de la Información forman parte de esa trayectoria.",
+      "Hoy utilizo mis conocimientos para desarrollar soluciones digitales que ayuden a empresas y profesionales a crecer. Quiero acercar la tecnología a quienes la necesitan, con comunicación clara y atención al contexto de cada proyecto."
+    ],
+    "educationTitle": "Formación que fundamenta mis decisiones",
+    "commitTitle": "Mi compromiso con tu proyecto",
+    "commitments": [
+      [
+        "Escuchar antes de desarrollar",
+        "Entender tu negocio, tu público y tus prioridades para definir un camino viable."
+      ],
+      [
+        "Cuidar los detalles",
+        "Considerar la usabilidad, la accesibilidad, la organización del código y la seguridad durante el desarrollo."
+      ],
+      [
+        "Mantener una relación transparente",
+        "Hablar directamente sobre el alcance, las necesidades y los próximos pasos, sin prometer resultados garantizados."
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "Soluciones para tu negocio",
+    "title": "La tecnología adecuada empieza por entender tu necesidad.",
+    "intro": "Trabajo con empresas y profesionales de distintos sectores, desde comercios locales hasta negocios que atienden a distancia. Cada propuesta se define según los objetivos y el alcance del proyecto.",
+    "items": [
+      [
+        "Sitios web profesionales",
+        "Creación de sitios corporativos, landing pages y soluciones web a medida para presentar tu negocio y facilitar el contacto.",
+        "Una presencia digital clara, adaptable y alineada con tu identidad.",
+        "Sitios corporativos y landing pages."
+      ],
+      [
+        "Sistemas a medida",
+        "Desarrollo de sistemas web para necesidades específicas, con funcionalidades definidas a partir de los procesos de tu empresa.",
+        "Organización de la información y apoyo a las tareas de tu negocio.",
+        "Funcionalidades definidas para cada proyecto."
+      ],
+      [
+        "Aplicaciones",
+        "Creación de aplicaciones y soluciones digitales según las necesidades del proyecto, considerando el público, las funcionalidades y el contexto de uso.",
+        "Una experiencia diseñada para el problema que quieres resolver.",
+        "Desarrollo según el proyecto."
+      ],
+      [
+        "Mantenimiento de sitios web",
+        "Actualización de contenido, correcciones, mejoras de navegación y optimización para mantener tu sitio útil y actualizado.",
+        "Cuidado continuo de tu presencia digital.",
+        "Mejoras y actualizaciones según la necesidad."
+      ],
+      [
+        "Gestión de Google Ads",
+        "Planificación, configuración, seguimiento y optimización de campañas de Google Ads según los objetivos definidos para el negocio.",
+        "Campañas alineadas con tus servicios y el público al que quieres llegar.",
+        "La inversión en anuncios es independiente del importe de la gestión."
+      ]
+    ],
+    "processTitle": "Cómo empezamos",
+    "process": [
+      [
+        "Conversación inicial",
+        "Presentas tu idea, tu público y las necesidades del negocio."
+      ],
+      [
+        "Alcance y propuesta",
+        "Definimos las entregas, las prioridades y el presupuesto adecuado al proyecto."
+      ],
+      [
+        "Desarrollo y revisión",
+        "Organizamos las etapas y las revisiones previstas en la propuesta."
+      ]
+    ],
+    "pricing": "No hay precios fijos: los importes se definen según las necesidades de cada cliente. Los resultados de las campañas no están garantizados."
+  },
+  "portfolio": {
+    "eyebrow": "Ideas puestas en práctica",
+    "title": "Proyectos para conocer mi trabajo.",
+    "intro": "Estos son los proyectos ya presentados en mi portafolio, con imágenes y acceso al código. No se presentan como trabajos contratados por clientes. Las categorías sin proyectos quedan reservadas para futuras publicaciones.",
+    "categories": [
+      "Sitios corporativos",
+      "Restaurantes",
+      "Hamburgueserías",
+      "Gimnasios",
+      "Sistemas web",
+      "Aplicaciones",
+      "Otros proyectos"
+    ],
+    "projects": [
+      [
+        "Formulario de registro",
+        "Interfaz de registro de desarrolladores con campos para información personal y habilidades técnicas.",
+        "Captura del formulario de registro de desarrolladores"
+      ],
+      [
+        "Lista de tareas",
+        "Proyecto para organizar actividades, presentado con su interfaz y código en GitHub.",
+        "Interfaz del proyecto de lista de tareas"
+      ],
+      [
+        "Reloj digital",
+        "Una interfaz para mostrar la hora en formato digital.",
+        "Interfaz del proyecto de reloj digital"
+      ]
+    ],
+    "futureTitle": "Espacio para nuevas ideas",
+    "futureText": "Los futuros sitios de ejemplo para restaurantes, hamburgueserías, gimnasios y otros sectores se identificarán claramente como demostraciones cuando estén disponibles. Todavía no hay demostraciones publicadas aquí.",
+    "clientsTitle": "Trabajos de clientes",
+    "clientsText": "Este espacio está preparado para futuros trabajos profesionales. Los nombres, imágenes y datos de clientes solo se incluirán con autorización.",
+    "techNote": "Las tecnologías indicadas son las descritas en el portafolio original. Los enlaces llevan a repositorios, sin demostraciones inventadas."
+  },
+  "contact": {
+    "eyebrow": "Una buena conversación es el primer paso",
+    "title": "¿Hablamos de tu proyecto?",
+    "intro": "Cuéntame tu idea, el reto de tu negocio y lo que te gustaría construir. La atención puede realizarse a distancia, en Brasil y el extranjero.",
+    "directTitle": "Habla directamente conmigo",
+    "directText": "Mientras el formulario espera su configuración, utiliza WhatsApp o el correo para solicitar un presupuesto.",
+    "formTitle": "Describe lo que necesitas",
+    "inactive": "El envío aún no está disponible. El formulario espera la configuración y las pruebas de Web3Forms. No se enviará ningún dato a través de él en esta versión.",
+    "required": "Todos los campos son obligatorios.",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "WhatsApp con código de país",
+    "phoneHelp": "Incluye + y el código del país. Se aceptan números internacionales.",
+    "service": "Servicio deseado",
+    "choose": "Selecciona un servicio",
+    "options": [
+      "Desarrollo de sitios web",
+      "Desarrollo de sistemas",
+      "Desarrollo de aplicaciones",
+      "Mantenimiento de sitios web",
+      "Gestión de Google Ads",
+      "Otro servicio"
+    ],
+    "description": "Descripción del proyecto",
+    "descriptionHelp": "Describe el objetivo y las funcionalidades deseadas (mínimo de 20 caracteres). No incluyas contraseñas ni información confidencial.",
+    "privacy": "Cuando se active el envío, los datos proporcionados se remitirán a través de Web3Forms para responder a tu solicitud. En esta versión, el sitio no los envía ni los almacena.",
+    "submit": "Validar solicitud (envío no disponible)",
+    "send": "Enviar solicitud",
+    "sending": "Enviando…",
+    "validInactive": "Los campos se han validado. No se ha enviado ningún dato: Web3Forms todavía no está configurado. Contacta por WhatsApp o correo.",
+    "invalid": "Revisa los campos indicados antes de continuar.",
+    "nameError": "Introduce tu nombre completo.",
+    "emailError": "Introduce una dirección de correo válida.",
+    "phoneError": "Introduce un número internacional con + y entre 7 y 15 dígitos.",
+    "serviceError": "Selecciona el servicio deseado.",
+    "descriptionError": "Describe el proyecto con al menos 20 caracteres.",
+    "success": "Web3Forms ha aceptado tu solicitud. Gracias por contactar.",
+    "failure": "No se ha podido confirmar el envío. Inténtalo más tarde o utiliza WhatsApp o el correo.",
+    "spam": "No se ha podido enviar esta solicitud. Utiliza uno de los canales de contacto.",
+    "nojs": "Activa JavaScript para validar el formulario. También puedes contactar por WhatsApp o correo.",
+    "ready": "El envío utiliza Web3Forms. También puedes contactar directamente por WhatsApp o correo.",
+    "privacyActive": "Los datos de este formulario se remitirán a través de Web3Forms para responder a tu solicitud. No incluyas datos sensibles.",
+    "directActive": "Utiliza el formulario, WhatsApp o el correo para hablar de tu proyecto.",
+    "honeypot": "Deja este campo vacío"
+  }
+}

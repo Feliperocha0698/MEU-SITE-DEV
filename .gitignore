@@ -1,0 +1,6 @@
+/.vercel/
+/dist/
+/review/
+__pycache__/
+.env
+.env.*
